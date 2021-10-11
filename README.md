@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - an awesome project
 
 You're looking for this GitHub: https://github.com/Cobular
 
